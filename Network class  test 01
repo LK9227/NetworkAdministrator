@@ -1,29 +1,27 @@
 1. Question: What command can you use to check your computer's IP address in Windows Command Prompt?
-Answer: ipconfig
+
 
 2. Question: How do you test the connectivity to a specific IP address using the Windows Command Prompt?
-Answer: ping [IP address] (e.g., ping 192.168.1.1)
+
 
 3. Question: What command helps you identify the route that packets take to reach a destination IP address?
-Answer: tracert [IP address] (e.g., tracert www.google.com)
 
 4. Question: How can you release and renew your IP address using the Windows Command Prompt?
-Answer: ipconfig /release and ipconfig /renew
+
 
 5. Question: What Windows Command Prompt command can be used to display the list of active network connections?
-Answer: netstat
 
 6. Question: How can you check the DNS resolution of a domain using the Windows Command Prompt?
-Answer: nslookup [domain] (e.g., nslookup www.example.com)
+
 
 7. Question: What command helps you view detailed information about your network interfaces, including MAC addresses?
-Answer: ipconfig /all
 
 8. Question: How do you check the wireless networks available and their signal strength using the Windows Command Prompt?
-Answer: netsh wlan show networks
+
+
 
 9. Question: What command can you use to test the connection to a specific port on a remote server?
-Answer: telnet [IP address] [port] (e.g., telnet 192.168.1.1 80)
+Answer: 
 
 10. Question: How can you check the status of your network adapters and their configurations using the Windows Command Prompt?
-Answer: netsh interface show interface
+Answer:
