@@ -1,0 +1,3 @@
+you want to retrieve the IP address and MAC address of a specific device connected to your local network using its hostname. We can accomplish this by parsing the output of the arp -a command in a batch script.
+you want to list all devices connected to your local network. We can achieve this by using the arp command in a batch script.
+you want to check if a certain host is reachable. This script will use the ping command to check the status of the host.
